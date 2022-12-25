@@ -1,3 +1,4 @@
+
 /*Changing dataset title to define key city characteristic*/ 
 ALTER TABLE rms_crime_incidents
 RENAME TO Det_crime_incidents;
@@ -130,3 +131,5 @@ SELECT hour_of_day, COUNT(*) as crime_incidents
 FROM Det_crime_incidents
 GROUP BY hour_of_day
 ORDER BY crime_incidents DESC;
+
+
