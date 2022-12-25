@@ -1,3 +1,4 @@
-# RMS-Crime-project
+DETROIT CRIME DATA ANALYSIS
+Dataset: https://data.detroitmi.gov/datasets/detroitmi::rms-crime-incidents/about
 
 This analysis is an exploration of crime data from the city of Detroit. The data was obtained from the city's Record Management System (RMS) and includes information on criminal offenses recorded between 2001 and 2022. The initial dataset was cleaned and modified to remove personally identifiable information and irrelevant columns. The analysis then focused on identifying trends and patterns in the crime data.
